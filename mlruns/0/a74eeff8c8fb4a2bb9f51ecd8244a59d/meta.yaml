@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sipab/Downloads/Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/a74eeff8c8fb4a2bb9f51ecd8244a59d/artifacts
+end_time: 1696794863751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a74eeff8c8fb4a2bb9f51ecd8244a59d
+run_name: skittish-fowl-665
+run_uuid: a74eeff8c8fb4a2bb9f51ecd8244a59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696794855645
+status: 3
+tags: []
+user_id: sipab

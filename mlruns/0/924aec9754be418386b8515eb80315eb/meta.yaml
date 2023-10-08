@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sipab/Downloads/Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/924aec9754be418386b8515eb80315eb/artifacts
+end_time: 1696792936751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 924aec9754be418386b8515eb80315eb
+run_name: marvelous-frog-674
+run_uuid: 924aec9754be418386b8515eb80315eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696792928433
+status: 3
+tags: []
+user_id: sipab
